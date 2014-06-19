@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solider_affect.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="soldier1_Affect0000" x="0" y="0" width="168" height="141" pivotX="7" pivotY="-11.4"/>
+	<SubTexture name="soldier1_Affect0001" x="0" y="141" width="168" height="141"/>
+	<SubTexture name="soldier1_Affect0002" x="0" y="0" width="168" height="141"/>
+	<SubTexture name="soldier1_Affect0003" x="0" y="141" width="168" height="141"/>
+	<SubTexture name="soldier1_Affect0004" x="0" y="141" width="168" height="141"/>
+	<SubTexture name="soldier1_Affect0005" x="0" y="141" width="168" height="141"/>
+	<SubTexture name="soldier1_Affect0006" x="0" y="141" width="168" height="141"/>
+</TextureAtlas>

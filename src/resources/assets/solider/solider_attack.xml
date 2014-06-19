@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solider_attack.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="soldier1_atk0000" x="0" y="0" width="446" height="216" pivotX="306" pivotY="70.3"/>
+	<SubTexture name="soldier1_atk0001" x="446" y="0" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0002" x="0" y="216" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0003" x="446" y="216" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0004" x="0" y="432" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0005" x="446" y="432" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0006" x="446" y="432" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0007" x="446" y="432" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0008" x="0" y="648" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0009" x="446" y="648" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0010" x="0" y="864" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0011" x="446" y="864" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0012" x="0" y="1080" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0013" x="446" y="1080" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0014" x="0" y="1296" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0015" x="446" y="432" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0016" x="0" y="432" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0017" x="446" y="1296" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0018" x="0" y="1512" width="446" height="216"/>
+	<SubTexture name="soldier1_atk0019" x="0" y="0" width="446" height="216"/>
+</TextureAtlas>

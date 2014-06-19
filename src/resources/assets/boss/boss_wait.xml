@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boss_wait.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="boss1_stp0000" x="0" y="0" width="186" height="147" pivotX="34.65" pivotY="1.45"/>
+	<SubTexture name="boss1_stp0001" x="186" y="0" width="186" height="147"/>
+	<SubTexture name="boss1_stp0002" x="0" y="147" width="186" height="147"/>
+	<SubTexture name="boss1_stp0003" x="186" y="147" width="186" height="147"/>
+	<SubTexture name="boss1_stp0004" x="0" y="294" width="186" height="147"/>
+	<SubTexture name="boss1_stp0005" x="186" y="294" width="186" height="147"/>
+	<SubTexture name="boss1_stp0006" x="0" y="441" width="186" height="147"/>
+	<SubTexture name="boss1_stp0007" x="186" y="441" width="186" height="147"/>
+	<SubTexture name="boss1_stp0008" x="0" y="588" width="186" height="147"/>
+	<SubTexture name="boss1_stp0009" x="186" y="588" width="186" height="147"/>
+	<SubTexture name="boss1_stp0010" x="0" y="735" width="186" height="147"/>
+	<SubTexture name="boss1_stp0011" x="186" y="735" width="186" height="147"/>
+	<SubTexture name="boss1_stp0012" x="0" y="0" width="186" height="147"/>
+</TextureAtlas>

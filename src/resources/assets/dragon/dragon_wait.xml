@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dragon_wait.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="wait0000" x="0" y="0" width="265" height="189" pivotX="21.25" pivotY="7.7" frameX="-6" frameY="0" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0001" x="265" y="0" width="265" height="188" frameX="-6" frameY="-1" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0002" x="530" y="0" width="266" height="188" frameX="-5" frameY="-1" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0003" x="0" y="189" width="267" height="187" frameX="-4" frameY="-2" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0004" x="267" y="189" width="269" height="186" frameX="-2" frameY="-3" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0005" x="536" y="189" width="270" height="185" frameX="-1" frameY="-4" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0006" x="0" y="376" width="271" height="184" frameX="0" frameY="-5" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0007" x="271" y="376" width="270" height="185" frameX="-1" frameY="-4" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0008" x="541" y="376" width="269" height="186" frameX="-2" frameY="-3" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0009" x="0" y="562" width="268" height="187" frameX="-3" frameY="-2" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0010" x="268" y="562" width="266" height="188" frameX="-5" frameY="-1" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0011" x="534" y="562" width="265" height="188" frameX="-6" frameY="-1" frameWidth="271" frameHeight="189"/>
+	<SubTexture name="wait0012" x="0" y="0" width="265" height="189" frameX="-6" frameY="0" frameWidth="271" frameHeight="189"/>
+</TextureAtlas>

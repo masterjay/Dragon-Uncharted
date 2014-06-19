@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boss_affect.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="boss1_Affect0000" x="0" y="0" width="179" height="164" pivotX="-14.75" pivotY="15.3"/>
+	<SubTexture name="boss1_Affect0001" x="0" y="164" width="179" height="164"/>
+	<SubTexture name="boss1_Affect0002" x="0" y="0" width="179" height="164"/>
+	<SubTexture name="boss1_Affect0003" x="0" y="164" width="179" height="164"/>
+	<SubTexture name="boss1_Affect0004" x="0" y="164" width="179" height="164"/>
+	<SubTexture name="boss1_Affect0005" x="0" y="164" width="179" height="164"/>
+	<SubTexture name="boss1_Affect0006" x="0" y="164" width="179" height="164"/>
+</TextureAtlas>

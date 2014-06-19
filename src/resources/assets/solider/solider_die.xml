@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="solider_die.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="soldier1_die0000" x="0" y="0" width="158" height="127" pivotX="138.85" pivotY="60.05" frameX="-110" frameY="-79" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0001" x="158" y="0" width="151" height="136" frameX="-131" frameY="-71" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0002" x="309" y="0" width="237" height="145" frameX="-58" frameY="-63" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0003" x="546" y="0" width="339" height="198" frameX="0" frameY="-18" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0004" x="0" y="198" width="181" height="211" frameX="-178" frameY="-19" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0005" x="181" y="198" width="160" height="171" frameX="-178" frameY="0" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0006" x="341" y="198" width="163" height="192" frameX="-199" frameY="-1" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0007" x="504" y="198" width="184" height="122" frameX="-180" frameY="-114" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0008" x="688" y="198" width="182" height="135" frameX="-188" frameY="-89" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0009" x="0" y="409" width="185" height="121" frameX="-180" frameY="-115" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0010" x="185" y="409" width="185" height="122" frameX="-180" frameY="-114" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0011" x="370" y="409" width="185" height="122" frameX="-180" frameY="-114" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0012" x="555" y="409" width="185" height="122" frameX="-180" frameY="-114" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0013" x="740" y="409" width="185" height="122" frameX="-180" frameY="-114" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0014" x="0" y="531" width="226" height="134" frameX="-173" frameY="-105" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0015" x="226" y="531" width="239" height="129" frameX="-166" frameY="-109" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0016" x="465" y="531" width="254" height="133" frameX="-160" frameY="-107" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0017" x="719" y="531" width="263" height="133" frameX="-155" frameY="-107" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0018" x="0" y="665" width="272" height="132" frameX="-150" frameY="-108" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0019" x="272" y="665" width="282" height="132" frameX="-145" frameY="-109" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0020" x="554" y="665" width="291" height="131" frameX="-140" frameY="-110" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0021" x="0" y="797" width="299" height="130" frameX="-136" frameY="-111" frameWidth="439" frameHeight="242"/>
+	<SubTexture name="soldier1_die0022" x="299" y="797" width="308" height="130" frameX="-131" frameY="-112" frameWidth="439" frameHeight="242"/>
+</TextureAtlas>
