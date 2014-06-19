@@ -21,7 +21,7 @@ package
 	import starling.display.Image;
 	import starling.display.Stage;
 	import starling.events.ResizeEvent;
-	import starling.textures.Texture;
+	import starling.textures.Texture; 
 
 	//1136 720  960 /540
 	[SWF(frameRate="60" , width="500", height="800", backgroundColor="0x000000")]
