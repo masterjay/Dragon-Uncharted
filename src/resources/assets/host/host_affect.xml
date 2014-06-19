@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="host_affect.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="suffer0000" x="0" y="0" width="117" height="125" pivotX="146.8" pivotY="11.6" frameX="-20" frameY="0" frameWidth="137" frameHeight="126"/>
+	<SubTexture name="suffer0001" x="0" y="125" width="119" height="122" frameX="0" frameY="-4" frameWidth="137" frameHeight="126"/>
+	<SubTexture name="suffer0002" x="0" y="0" width="117" height="125" frameX="-20" frameY="0" frameWidth="137" frameHeight="126"/>
+	<SubTexture name="suffer0003" x="0" y="125" width="119" height="122" frameX="0" frameY="-4" frameWidth="137" frameHeight="126"/>
+	<SubTexture name="suffer0004" x="0" y="125" width="119" height="122" frameX="0" frameY="-4" frameWidth="137" frameHeight="126"/>
+	<SubTexture name="suffer0005" x="0" y="125" width="119" height="122" frameX="0" frameY="-4" frameWidth="137" frameHeight="126"/>
+	<SubTexture name="suffer0006" x="0" y="125" width="119" height="122" frameX="0" frameY="-4" frameWidth="137" frameHeight="126"/>
+</TextureAtlas>

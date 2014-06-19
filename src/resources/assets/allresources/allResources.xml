@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2b666db765475b70eeb1c4a980e7f77c:0544494cefd150cb15c6a60ff0b77502:f2da3879b8783c080c782a103a5b0b54$ -->
+<TextureAtlas imagePath="allResources.png">
+    <SubTexture name="button_start" x="343" y="982" width="223" height="49" frameX="0" frameY="0" frameWidth="227" frameHeight="55"/>
+    <SubTexture name="countdownbase" x="2" y="861" width="339" height="318"/>
+    <SubTexture name="cubeStage" x="2" y="2" width="496" height="633"/>
+    <SubTexture name="cube_blue" x="902" y="820" width="47" height="47"/>
+    <SubTexture name="cube_green" x="951" y="771" width="47" height="47"/>
+    <SubTexture name="cube_pink" x="902" y="771" width="47" height="47"/>
+    <SubTexture name="cube_red" x="951" y="722" width="47" height="47"/>
+    <SubTexture name="cube_yellow" x="902" y="722" width="47" height="47"/>
+    <SubTexture name="game_over_try_again" x="797" y="946" width="223" height="49" frameX="0" frameY="0" frameWidth="227" frameHeight="55"/>
+    <SubTexture name="gameover" x="452" y="722" width="448" height="222"/>
+    <SubTexture name="life_base" x="343" y="946" width="227" height="34"/>
+    <SubTexture name="logo_x" x="500" y="2" width="496" height="600"/>
+    <SubTexture name="stage_base" x="500" y="604" width="496" height="116" frameX="0" frameY="-56" frameWidth="496" frameHeight="172"/>
+    <SubTexture name="victory" x="2" y="637" width="448" height="222"/>
+    <SubTexture name="victory_try_again" x="572" y="946" width="223" height="49" frameX="0" frameY="0" frameWidth="227" frameHeight="55"/>
+</TextureAtlas>

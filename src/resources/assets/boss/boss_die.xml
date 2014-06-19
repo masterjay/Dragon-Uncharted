@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boss_die.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="boss1_die0000" x="0" y="0" width="439" height="242" pivotX="138.85" pivotY="60.05"/>
+	<SubTexture name="boss1_die0001" x="439" y="0" width="439" height="242"/>
+	<SubTexture name="boss1_die0002" x="878" y="0" width="439" height="242"/>
+	<SubTexture name="boss1_die0003" x="1317" y="0" width="439" height="242"/>
+	<SubTexture name="boss1_die0004" x="0" y="242" width="439" height="242"/>
+	<SubTexture name="boss1_die0005" x="439" y="242" width="439" height="242"/>
+	<SubTexture name="boss1_die0006" x="878" y="242" width="439" height="242"/>
+	<SubTexture name="boss1_die0007" x="1317" y="242" width="439" height="242"/>
+	<SubTexture name="boss1_die0008" x="0" y="484" width="439" height="242"/>
+	<SubTexture name="boss1_die0009" x="1317" y="242" width="439" height="242"/>
+	<SubTexture name="boss1_die0010" x="439" y="484" width="439" height="242"/>
+	<SubTexture name="boss1_die0011" x="439" y="484" width="439" height="242"/>
+	<SubTexture name="boss1_die0012" x="878" y="484" width="439" height="242"/>
+	<SubTexture name="boss1_die0013" x="1317" y="484" width="439" height="242"/>
+	<SubTexture name="boss1_die0014" x="0" y="726" width="439" height="242"/>
+	<SubTexture name="boss1_die0015" x="439" y="726" width="439" height="242"/>
+	<SubTexture name="boss1_die0016" x="878" y="726" width="439" height="242"/>
+	<SubTexture name="boss1_die0017" x="1317" y="726" width="439" height="242"/>
+	<SubTexture name="boss1_die0018" x="0" y="968" width="439" height="242"/>
+	<SubTexture name="boss1_die0019" x="439" y="968" width="439" height="242"/>
+	<SubTexture name="boss1_die0020" x="878" y="968" width="439" height="242"/>
+	<SubTexture name="boss1_die0021" x="1317" y="968" width="439" height="242"/>
+	<SubTexture name="boss1_die0022" x="0" y="1210" width="439" height="242"/>
+</TextureAtlas>

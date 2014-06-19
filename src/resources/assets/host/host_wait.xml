@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="host_wait.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="wait0000" x="0" y="0" width="139" height="113" pivotX="115.75" pivotY="1.1" frameX="0" frameY="0" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0001" x="139" y="0" width="139" height="113" frameX="-1" frameY="0" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0002" x="278" y="0" width="138" height="112" frameX="-2" frameY="-1" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0003" x="0" y="113" width="137" height="111" frameX="-4" frameY="-2" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0004" x="137" y="113" width="137" height="110" frameX="-5" frameY="-3" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0005" x="274" y="113" width="137" height="109" frameX="-6" frameY="-4" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0006" x="0" y="224" width="135" height="109" frameX="-8" frameY="-4" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0007" x="135" y="224" width="137" height="109" frameX="-6" frameY="-4" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0008" x="272" y="224" width="137" height="110" frameX="-5" frameY="-3" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0009" x="0" y="334" width="137" height="111" frameX="-4" frameY="-2" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0010" x="137" y="334" width="138" height="112" frameX="-2" frameY="-1" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0011" x="275" y="334" width="139" height="113" frameX="-1" frameY="0" frameWidth="143" frameHeight="113"/>
+	<SubTexture name="wait0012" x="0" y="0" width="139" height="113" frameX="0" frameY="0" frameWidth="143" frameHeight="113"/>
+</TextureAtlas>

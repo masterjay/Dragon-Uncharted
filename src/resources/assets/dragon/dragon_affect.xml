@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dragon_suffer.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="suffer0000" x="0" y="0" width="265" height="238" pivotX="13.85" pivotY="56.45" frameX="0" frameY="0" frameWidth="285" frameHeight="238"/>
+	<SubTexture name="suffer0001" x="0" y="238" width="265" height="230" frameX="-20" frameY="-8" frameWidth="285" frameHeight="238"/>
+	<SubTexture name="suffer0002" x="0" y="0" width="265" height="238" frameX="0" frameY="0" frameWidth="285" frameHeight="238"/>
+	<SubTexture name="suffer0003" x="0" y="238" width="265" height="230" frameX="-20" frameY="-8" frameWidth="285" frameHeight="238"/>
+	<SubTexture name="suffer0004" x="0" y="238" width="265" height="230" frameX="-20" frameY="-8" frameWidth="285" frameHeight="238"/>
+	<SubTexture name="suffer0005" x="0" y="238" width="265" height="230" frameX="-20" frameY="-8" frameWidth="285" frameHeight="238"/>
+	<SubTexture name="suffer0006" x="0" y="238" width="265" height="230" frameX="-20" frameY="-8" frameWidth="285" frameHeight="238"/>
+</TextureAtlas>

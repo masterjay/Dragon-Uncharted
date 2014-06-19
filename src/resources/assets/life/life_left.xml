@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="life_left.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="lifePoint0000" x="0" y="0" width="0" height="0" pivotX="144.45" pivotY="36.15" frameX="25" frameY="562" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0001" x="0" y="0" width="4" height="21" frameX="-186" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0002" x="4" y="0" width="8" height="21" frameX="-182" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0003" x="12" y="0" width="12" height="21" frameX="-178" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0004" x="24" y="0" width="16" height="21" frameX="-174" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0005" x="40" y="0" width="20" height="21" frameX="-170" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0006" x="60" y="0" width="24" height="21" frameX="-166" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0007" x="84" y="0" width="27" height="21" frameX="-163" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0008" x="111" y="0" width="31" height="21" frameX="-159" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0009" x="142" y="0" width="35" height="21" frameX="-155" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0010" x="177" y="0" width="39" height="21" frameX="-151" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0011" x="216" y="0" width="43" height="21" frameX="-147" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0012" x="259" y="0" width="47" height="21" frameX="-143" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0013" x="306" y="0" width="50" height="21" frameX="-140" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0014" x="356" y="0" width="54" height="21" frameX="-136" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0015" x="410" y="0" width="58" height="21" frameX="-132" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0016" x="0" y="21" width="62" height="21" frameX="-128" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0017" x="62" y="21" width="66" height="21" frameX="-124" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0018" x="128" y="21" width="70" height="21" frameX="-120" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0019" x="198" y="21" width="74" height="21" frameX="-116" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0020" x="272" y="21" width="77" height="21" frameX="-113" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0021" x="349" y="21" width="81" height="21" frameX="-109" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0022" x="0" y="42" width="85" height="21" frameX="-105" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0023" x="85" y="42" width="89" height="21" frameX="-101" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0024" x="174" y="42" width="93" height="21" frameX="-97" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0025" x="267" y="42" width="97" height="21" frameX="-93" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0026" x="364" y="42" width="101" height="21" frameX="-89" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0027" x="0" y="63" width="104" height="21" frameX="-86" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0028" x="104" y="63" width="108" height="21" frameX="-82" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0029" x="212" y="63" width="112" height="21" frameX="-78" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0030" x="324" y="63" width="116" height="21" frameX="-74" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0031" x="0" y="84" width="120" height="21" frameX="-70" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0032" x="120" y="84" width="124" height="21" frameX="-66" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0033" x="244" y="84" width="128" height="21" frameX="-62" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0034" x="372" y="84" width="131" height="21" frameX="-59" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0035" x="0" y="105" width="135" height="21" frameX="-55" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0036" x="135" y="105" width="139" height="21" frameX="-51" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0037" x="274" y="105" width="143" height="21" frameX="-47" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0038" x="0" y="126" width="147" height="21" frameX="-43" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0039" x="147" y="126" width="151" height="21" frameX="-39" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0040" x="298" y="126" width="155" height="21" frameX="-35" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0041" x="0" y="147" width="158" height="21" frameX="-32" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0042" x="158" y="147" width="162" height="21" frameX="-28" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0043" x="320" y="147" width="166" height="21" frameX="-24" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0044" x="0" y="168" width="170" height="21" frameX="-20" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0045" x="170" y="168" width="174" height="21" frameX="-16" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0046" x="0" y="189" width="178" height="21" frameX="-12" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0047" x="178" y="189" width="182" height="21" frameX="-8" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0048" x="0" y="210" width="185" height="21" frameX="-5" frameY="0" frameWidth="190" frameHeight="21"/>
+	<SubTexture name="lifePoint0049" x="185" y="210" width="190" height="21"/>
+</TextureAtlas>

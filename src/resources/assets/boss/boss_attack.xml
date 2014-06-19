@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boss.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="boss1_atk0000" x="0" y="0" width="491" height="257" pivotX="303.2" pivotY="67.75"/>
+	<SubTexture name="boss1_atk0001" x="491" y="0" width="491" height="257"/>
+	<SubTexture name="boss1_atk0002" x="982" y="0" width="491" height="257"/>
+	<SubTexture name="boss1_atk0003" x="1473" y="0" width="491" height="257"/>
+	<SubTexture name="boss1_atk0004" x="0" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0005" x="491" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0006" x="491" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0007" x="491" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0008" x="982" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0009" x="1473" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0010" x="0" y="514" width="491" height="257"/>
+	<SubTexture name="boss1_atk0011" x="491" y="514" width="491" height="257"/>
+	<SubTexture name="boss1_atk0012" x="982" y="514" width="491" height="257"/>
+	<SubTexture name="boss1_atk0013" x="1473" y="514" width="491" height="257"/>
+	<SubTexture name="boss1_atk0014" x="0" y="771" width="491" height="257"/>
+	<SubTexture name="boss1_atk0015" x="491" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0016" x="0" y="257" width="491" height="257"/>
+	<SubTexture name="boss1_atk0017" x="491" y="771" width="491" height="257"/>
+	<SubTexture name="boss1_atk0018" x="982" y="771" width="491" height="257"/>
+	<SubTexture name="boss1_atk0019" x="0" y="0" width="491" height="257"/>
+</TextureAtlas>

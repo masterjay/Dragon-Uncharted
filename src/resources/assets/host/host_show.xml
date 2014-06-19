@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="host_show.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="appear0000" x="0" y="0" width="113" height="125" pivotX="199.15" pivotY="122.05" frameX="0" frameY="-117" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0001" x="113" y="0" width="123" height="136" frameX="-30" frameY="-63" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0002" x="236" y="0" width="140" height="154" frameX="-51" frameY="-7" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0003" x="0" y="154" width="139" height="154" frameX="-69" frameY="0" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0004" x="139" y="154" width="139" height="154" frameX="-88" frameY="-27" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0005" x="278" y="154" width="139" height="154" frameX="-87" frameY="-49" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0006" x="0" y="308" width="139" height="114" frameX="-87" frameY="-104" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0007" x="139" y="308" width="206" height="85" frameX="-49" frameY="-156" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0008" x="345" y="308" width="137" height="87" frameX="-88" frameY="-147" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0009" x="0" y="422" width="138" height="96" frameX="-86" frameY="-138" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0010" x="138" y="422" width="139" height="105" frameX="-84" frameY="-129" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0011" x="277" y="422" width="138" height="113" frameX="-83" frameY="-121" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0012" x="277" y="422" width="138" height="113" frameX="-83" frameY="-121" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0013" x="277" y="422" width="138" height="113" frameX="-83" frameY="-121" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0014" x="277" y="422" width="138" height="113" frameX="-83" frameY="-121" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0015" x="277" y="422" width="138" height="113" frameX="-83" frameY="-121" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0016" x="277" y="422" width="138" height="113" frameX="-83" frameY="-121" frameWidth="255" frameHeight="242"/>
+	<SubTexture name="appear0017" x="277" y="422" width="138" height="113" frameX="-83" frameY="-121" frameWidth="255" frameHeight="242"/>
+</TextureAtlas>

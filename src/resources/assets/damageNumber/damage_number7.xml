@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="damage_number7.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.217 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="damage_number0000" x="0" y="0" width="32" height="36" pivotX="4.5" pivotY="5.95" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0001" x="32" y="0" width="59" height="66"/>
+	<SubTexture name="damage_number0002" x="0" y="66" width="50" height="56" frameX="-4" frameY="-5" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0003" x="50" y="66" width="41" height="46" frameX="-8" frameY="-9" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0004" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0005" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0006" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0007" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0008" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0009" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0010" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0011" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0012" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0013" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0014" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0015" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0016" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0017" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0018" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0019" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0020" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0021" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0022" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0023" x="91" y="66" width="32" height="36" frameX="-13" frameY="-14" frameWidth="59" frameHeight="66"/>
+	<SubTexture name="damage_number0024" x="123" y="66" width="0" height="0" frameX="-4" frameY="-5" frameWidth="59" frameHeight="66"/>
+</TextureAtlas>
