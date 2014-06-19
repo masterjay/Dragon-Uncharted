@@ -12,7 +12,7 @@ package
 	
 	import resources.GetFontHandler;
 	
-	import starling.animation.DelayedCall;
+	import starling.animation.DelayedCall; 
 	import starling.core.Starling;
 	import starling.display.Sprite;
 	import starling.events.Event;
